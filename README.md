@@ -1,8 +1,9 @@
-# OIBSIP_Task1  : Calculator
+# OIBSIP_Task1
+Calculator
 
-I included a task that I need to complete for my internship at Oasis Infobytes in this repository.
-Web design and development were related to my domain.
-I successfully performed this task.
+In this Repository,I added a task which i have to do in my internship at Oasis Infobytes.
+My domain Was releted to Web development & Designing .
+I completed this Task Suceesfully .
 
 IDE = Visual Studio Code
 
@@ -10,6 +11,8 @@ IDE = Visual Studio Code
   - HTML
   - CSS
   - Javascript 
+
+You can check the website preview with this link : [Live Demo](https://sheel2002.github.io/OIBSIP_Task1/ )
 
    Thank You.☺
   
