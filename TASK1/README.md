@@ -11,7 +11,5 @@ IDE = Visual Studio Code
   - CSS
   - Javascript 
 
-You can check the website preview with this link : [Live Demo]( )
-
    Thank You.☺
   
